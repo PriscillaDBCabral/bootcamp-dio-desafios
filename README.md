@@ -1,2 +1,2 @@
 # bootcamp-dio-desafios
-Desafios de Projeto Bootcamp DIO
+Desafios Bootcamp DIO
